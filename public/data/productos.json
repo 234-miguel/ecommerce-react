@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Lenovo",
+    "categoria": "Computación",
+    "precio": 599990
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse inalámbrico",
+    "categoria": "Accesorios",
+    "precio": 19990
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado mecánico",
+    "categoria": "Accesorios",
+    "precio": 49990
+  }
+]
